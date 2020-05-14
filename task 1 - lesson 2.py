@@ -4,3 +4,4 @@ def my_type(elem):
         print(type(my_list[elem]))
     return
 print(my_type(my_list))
+#homeworkgeeklesson2
